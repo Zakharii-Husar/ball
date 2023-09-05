@@ -1,0 +1,14 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore build output (if applicable)
+dist/
+
+# Ignore development server cache (Vite)
+.vite/
+
+# Ignore any compiled or built files for Three.js (if applicable)
+# Add specific file extensions or directories as needed
+# Example:
+# .glb
+# .gltf
